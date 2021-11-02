@@ -11,7 +11,7 @@ find_package(Threads REQUIRED)
 add_library(partition SHARED)
 
 target_compile_features(partition PRIVATE
-    cxx_std_14
+    cxx_std_17
 )
 
 set_target_properties(partition PROPERTIES
