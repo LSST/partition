@@ -1,0 +1,1 @@
+*Warning:* This package is deprecated, and appears here for archival purposes only.  The code has been subsumed by, and is now maintained within, the main Qserv repo [here](https://github.com/lsst/qserv/tree/main/src/partition).
